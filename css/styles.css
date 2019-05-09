@@ -86,6 +86,17 @@ align-self: center;
 	border-radius: 3.6rem;
 	margin: -1.8rem;
 }
+/*
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+*/
 .twitter span {
 	background-color: #4099ff;
 }
@@ -96,6 +107,12 @@ align-self: center;
 	background-color: #db5a3c;
 }
 
+/*
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+*/
 /* Icons */
 .icon-button i {
 	background: none;
@@ -114,6 +131,9 @@ align-self: center;
 }
 .icon-button .icon-twitter {
 	color: #4099ff;
+}
+.icon-button .fa-youtube {
+	color: #FF0001;
 }
 .icon-button .icon-facebook {
 	color: #3B5998;
